@@ -20,7 +20,7 @@ He has presented [his research outcomes](https://scholar.google.co.kr/citations?
 ## Contact
 
 ```
-Affiliation: 
-Office: Engineering Risk Analysis Group, Technische Universität München, 80290 München, Germany
+Affiliation: Structural/System Reliability Group (SSRG), Department of Civil and Environmental Engineering, Seoul National University
+Office: Rm. 206, Bd. 35, 1 Gwanak-Ro, Gwanak-Gu, Seoul, 08826
 Email: idongkr[at]gmail.com
 ```
